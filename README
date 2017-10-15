@@ -1,1 +1,4 @@
-git remote add notes_everyday https://github.com/orangeSi/python_notebook.git
+git add *
+git commit -m 'some comments'
+git push notes_everyday master ## can use tab to autofill notes_every master
+#git remote add notes_everyday https://github.com/orangeSi/python_notebook.git
